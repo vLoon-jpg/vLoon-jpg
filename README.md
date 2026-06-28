@@ -30,8 +30,8 @@ I make Minecraft mods go boom, pirate RimWorld mods through Steam's backdoor, an
 
 [🐙 GitHub](https://github.com/vLoon-jpg) · [📸 Instagram](https://www.instagram.com/vLoon/) · [✉️ crabmuck@gmail.com](mailto:crabmuck@gmail.com)
 
-📍 Karangasem, Bali · Kelas XI @ SMANDA
+📍 Karangasem, Bali · Kelas XII @ SMANDA
 
 ---
 
-*"Hit compile first, ask questions later."*
+*"If it works, it works."*
