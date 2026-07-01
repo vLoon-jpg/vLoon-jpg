@@ -1,28 +1,28 @@
-### 🚀 Yo, I'm Levy / vLoon
+### 🚀 Hi there, I'm Levy (vLoon)
 
-**Indonesian high schooler. Modder. Automation rat. Competitive programmer.**
+**Indonesian High Schooler · Modder · Automation Enthusiast · Competitive Programmer**
 
-I make Minecraft mods go boom, pirate RimWorld mods through Steam's backdoor, and automate everything I can touch. If there's a boring task, I'll script it. If there's a locked API, I'll poke it. If there's a game, I'll mod it.
+I create Minecraft mods, develop automation tools, and explore how software works. If a task is repetitive, I'll script it. If there's an interesting API, I'll build something with it. If there's a game I enjoy, I'll mod it.
 
 ---
 
 ### ⚡ What I Do
 
-| Stack | Thing |
+| Stack | Focus |
 |-------|-------|
-| **Java 21 · Fabric · Mixin** | Minecraft modding — More Firework Mod (combat fireworks) |
-| **C# · Unity** | Flappy Bird clones and other dumb game jam stuff |
-| **C++** | Competitive programming sweat |
-| **Python** | Automation scripts, RimWorld mod extractor, Steam freebie bot |
-| **n8n · Git · Gradle** | Automation pipelines, version control, builds |
+| **Java 21 · Fabric · Mixin** | Minecraft modding — More Firework Mod (combat fireworks system) |
+| **C# · Unity** | Game dev prototyping and game jam entries |
+| **C++** | Algorithms and competitive programming |
+| **Python** | Automation scripts, Steam Workshop tools, and auto-claimers |
+| **n8n · Git · Gradle** | Workflow automation, version control, and build systems |
 
 ---
 
 ### 🔥 Featured Projects
 
-- [**More Firework Mod**](https://github.com/vLoon-jpg/morefirework) — Minecraft Fabric 1.21 combat fireworks. Ore rockets → crossbow → chain explosions.
-- [**RimWorldDownloader**](https://github.com/vLoon-jpg/RimWorldDownloader) — Bypasses Steam Workshop DRM so cracked copies can mod RimWorld too. 🏴‍☠️
-- [**Steam Free Game Auto-Claimer**](https://github.com/vLoon-jpg/Steam-Free-Game-Auto-Claimer) — Python bot that auto-claims free Steam games while you sleep.
+- [**More Firework Mod**](https://github.com/vLoon-jpg/morefirework) — Minecraft Fabric 1.21 combat fireworks mod. Adds ore-ingot rockets, crossbow ammo features, and chain explosions.
+- [**RimWorldDownloader**](https://github.com/vLoon-jpg/RimWorldDownloader) — Downloads RimWorld mods directly from Steam's workshop servers.
+- [**Steam Free Game Auto-Claimer**](https://github.com/vLoon-jpg/Steam-Free-Game-Auto-Claimer) — A Python bot that automatically monitors and claims free-to-keep Steam promotions.
 
 ---
 
